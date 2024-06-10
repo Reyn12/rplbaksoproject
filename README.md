@@ -1,6 +1,6 @@
 # Pak Resto UNIKOM - Website Restaurant Management System
 
-# Build by => ## Bakso Kelompok
+# Build by => Bakso Kelompok
   10122002 - Muhammad Renaldi Maulana
   10122007 - M Rizky F
   10220xx - Krisna Ariangga
