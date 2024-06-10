@@ -1,10 +1,11 @@
 # Pak Resto UNIKOM - Website Restaurant Management System
 
 # Build by => Bakso Kelompok
-  10122002 - Muhammad Renaldi Maulana
-  10122007 - M Rizky F
-  10122039 - M Zaky Afriliansyah
-  101220xx - 
+- 10122002 - Muhammad Renaldi Maulana
+- 10122028 - M Hilmi F
+- 10122007 - M Rizky F
+- 10122039 - M Zaky Afriliansyah
+- 101220xx - Krisna
 
 ## Sejarah Proyek
 Pak Resto UNIKOM adalah sebuah restoran terkenal yang ingin mengoptimalkan proses pelayanannya dengan bantuan teknologi informasi. Tim kami diberi kepercayaan untuk mengembangkan perangkat lunak berbasis web yang dapat membantu pelayan, koki, dan kasir dalam menjalankan tugas sehari-hari mereka dengan lebih efisien. Proyek ini dimulai pada bulan Juni 2024 sebagai bagian dari mata kuliah Rekayasa Perangkat Lunak di Universitas Komputer Indonesia (UNIKOM).
