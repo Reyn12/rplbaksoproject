@@ -10,10 +10,10 @@
 Pak Resto UNIKOM adalah sebuah restoran terkenal yang ingin mengoptimalkan proses pelayanannya dengan bantuan teknologi informasi. Tim kami diberi kepercayaan untuk mengembangkan perangkat lunak berbasis web yang dapat membantu pelayan, koki, dan kasir dalam menjalankan tugas sehari-hari mereka dengan lebih efisien. Proyek ini dimulai pada bulan Juni 2024 sebagai bagian dari mata kuliah Rekayasa Perangkat Lunak di Universitas Komputer Indonesia (UNIKOM).
 
 ## Tujuan Project
-    - Meningkatkan efisiensi operasional di restoran Pak Resto UNIKOM.
-    - Mengurangi kesalahan yang terjadi akibat penggunaan media kertas dalam proses kerja.
-    - Memberikan kemudahan bagi pelayan, koki, dan kasir dalam menjalankan tugas mereka.
-    - Meningkatkan kepuasan pelanggan dengan pelayanan yang lebih cepat dan akurat.
+- Meningkatkan efisiensi operasional di restoran Pak Resto UNIKOM.
+- Mengurangi kesalahan yang terjadi akibat penggunaan media kertas dalam proses kerja.
+- Memberikan kemudahan bagi pelayan, koki, dan kasir dalam menjalankan tugas mereka.
+- Meningkatkan kepuasan pelanggan dengan pelayanan yang lebih cepat dan akurat.
 
 ## Fitur Utama
 - **Login dan Otentikasi:** Sistem login yang aman untuk berbagai peran pengguna (Pelayan, Koki, Kasir).
